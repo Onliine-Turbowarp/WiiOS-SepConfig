@@ -2,6 +2,7 @@
   "Popup": {
     "ShowPopup": "true",
     "PopupMessage": "If your seeing this popup your This is probably a glitch",
-    "PopupTitle": "Unkown Glitch"
+    "PopupTitle": "Unkown Glitch",
+    "AllowClosing": true
   }
 }
