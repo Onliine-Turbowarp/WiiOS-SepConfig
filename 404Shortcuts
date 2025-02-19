@@ -1,0 +1,10 @@
+{
+  "HMScreen": {
+    "Name": "Boot.elf",
+    "Description": "Wii Boot File | Critical File"
+  },
+  "STScreen": {
+    "Name": "Settings Screen",
+    "Description": "Wii Settings | Critical File"
+  }
+}
