@@ -1,6 +1,6 @@
 {
   "Popup": {
-    "ShowPopup": "false",
+    "ShowPopup": "true",
     "PopupMessage": "Warpii Has Now Became Onliine As We Have Departed from the Old Warpii <br>now this is a seperate repository",
     "PopupTitle": "Attention!",
     "AllowClosing": true
