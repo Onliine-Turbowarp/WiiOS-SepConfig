@@ -1,8 +1,8 @@
 {
   "Popup": {
     "ShowPopup": "false",
-    "PopupMessage": "<span style='color:#FF0000;'>The Wii Is Under maitnence\nWe will be back soon on Friday March 14 Or Saturday March 15\nWe Are Sorry For the inconvenience </span>",
-    "PopupTitle": "Uh Oh!",
-    "AllowClosing": false
+    "PopupMessage": "Warpii Has Now Became Onliine As We Have Departed from the Old Warpii <br>now this is a seperate repository",
+    "PopupTitle": "Attention!",
+    "AllowClosing": true
   }
 }
